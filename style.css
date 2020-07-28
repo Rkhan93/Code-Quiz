@@ -1,0 +1,81 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 150px;
+    font-weight: bold !important;
+    font-size: 4px;
+    font-weight: bolder;
+}
+
+p {
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#button {
+ text-align: center;
+}
+
+button {
+    text-align: center !important;
+    background-color: rgb(14, 12, 17) !important;
+    border-color: rgb(251, 250, 252) !important;
+    color: white !important;
+    font-size: 22px !important;
+    padding: 0px 12px 0px 12px !important;
+}
+
+
+
+/* Nav Bar */
+ #score {
+    color:rgb(24, 24, 26); 
+    padding-left: 20px;
+}
+
+ #timer {
+    float: right;
+    padding-right: 30px; 
+ }
+
+/* Coding Quiz Page */
+
+.quizChallengePage {
+    align-items: center !important;
+    text-align: center !important; 
+}
+
+#quizQuestionHeader {
+    font-size: 40px;
+    font-weight: bolder; 
+    padding-top: 100px;
+    padding-left: 15%; 
+    padding-bottom: 15px; 
+}
+
+/* Quiz Questions */
+li {
+    list-style-type: none;
+    padding-left: 15%; 
+   }
+
+.questionButton {
+    text-align: center !important;
+    background-color: rgb(10, 10, 10) !important;
+    border-color: rgb(10, 10, 10) !important;
+    color: white !important;
+    font-size: 25px !important;
+    padding: 0px 12px 0px 12px !important;
+    margin: 5px; 
+}
+
+ #answerResponse {
+     font-style: italic;
+     color: rgb(154, 153, 206);
+     font-size: 35px;
+     padding-left: 15%;  
+ }
